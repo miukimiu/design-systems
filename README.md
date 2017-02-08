@@ -24,6 +24,9 @@ A curated list of design systems. Learning materials and tools for creating your
 - [Mailchimp](https://ux.mailchimp.com/)
 - [LonelyPlanet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
 
+## Design Systems for React
+- [Grommet](https://grommet.github.io/)
+
 ## Articles
 - [Design Systems in 2016 and how to make your own](https://uxplanet.org/design-systems-in-2016-5415a660b29#.u8dl12xgt) by Ziya Fenn (Dec 18, 2016)
 - [GE’s Predix Design System](https://medium.com/ge-design/ges-predix-design-system-8236d47b0891#.fjlu6xyay) by Jeff Crossman (May 25, 2016)
@@ -40,9 +43,3 @@ A curated list of design systems. Learning materials and tools for creating your
 - [Designing Products That Scale](https://medium.com/salesforce-ux/designing-products-that-scale-c8f3001f709b#.wiw661fw0) by Brad Haynes (Dec 9, 2013)
 - [Breaking Development: Atomic Design](http://www.lukew.com/ff/entry.asp?1809) by Luke Wroblewski (Oct 22, 2013)
 - [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) by Brad Frost (Jun 10, 2013)
-
-## Tools for creating your own design system
-- [Styleguide & Boilerplate Patterns](https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc&usp=sharing) (Spreadsheet)
-- [UI Styleguides](http://kevinformatics.com/ui-styleguides/)
-- [styleguides.io](http://styleguides.io/)
-- [Avocode](http://avocode.com/)
