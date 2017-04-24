@@ -9,6 +9,7 @@ A curated list of design systems. Learning materials and tools for creating your
 > -- <cite>Nathan Curtis</cite>
 
 ## Design Systems
+- [Shopify Polaris] (https://polaris.shopify.com/)
 - [Lightning Design System](https://www.lightningdesignsystem.com/)
 - [Google Material Design](https://material.io/)
 - [Atlassian](https://design.atlassian.com/)
