@@ -44,3 +44,10 @@ A curated list of design systems. Learning materials and tools for creating your
 - [Designing Products That Scale](https://medium.com/salesforce-ux/designing-products-that-scale-c8f3001f709b#.wiw661fw0) by Brad Haynes (Dec 9, 2013)
 - [Breaking Development: Atomic Design](http://www.lukew.com/ff/entry.asp?1809) by Luke Wroblewski (Oct 22, 2013)
 - [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) by Brad Frost (Jun 10, 2013)
+
+## Implementing a Design System
+
+* Sprint 0 - [The Silver Bullet of Product Development](https://medium.com/@marcintreder/design-systems-sprint-0-the-silver-bullet-of-product-development-8c0ed83bf00d)
+* Sprint 1 - [The Interface Inventory](https://medium.com/@marcintreder/design-systems-sprint-1-the-interface-inventory-1f78d376e49a
+* Sprint 2 - [One Color Palette to Rule them All](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
+* Sprint 3 - 
