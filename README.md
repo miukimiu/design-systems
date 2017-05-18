@@ -54,3 +54,6 @@ A curated list of design systems. Learning materials and tools for creating your
 ## Design Tokes
 * [Tokens in Design Systems](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
 
+## Videos
+* [The GE Design System and Thoughts about Craft at Scale](https://vimeo.com/132580829)
+
