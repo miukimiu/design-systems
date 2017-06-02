@@ -48,8 +48,7 @@ A curated list of design systems. Learning materials and tools for creating your
 ## Implementing a Design System
 
 * Sprint 0 - [The Silver Bullet of Product Development](https://medium.com/@marcintreder/design-systems-sprint-0-the-silver-bullet-of-product-development-8c0ed83bf00d)
-* Sprint 1 - [The Interface Inventory](https://medium.com/@marcintreder/design-systems-sprint-1-the-interface-inventory-1f78d376e49a)
-* Sprint 2 - [One Color Palette to Rule them All](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
+* [How Creating A Design Language Can Streamline Your UX Design Process](https://www.smashingmagazine.com/2016/12/how-creating-a-design-language-can-streamline-your-ux-design-process/)
 
 ## Design Tokes
 * [Tokens in Design Systems](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
