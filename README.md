@@ -51,7 +51,7 @@ A curated list of design systems. Learning materials and tools for creating your
 * [Sprints to create a Design System / The Silver Bullet of Product Development](https://medium.com/@marcintreder/design-systems-sprint-0-the-silver-bullet-of-product-development-8c0ed83bf00d)
 * [How Creating A Design Language Can Streamline Your UX Design Process](https://www.smashingmagazine.com/2016/12/how-creating-a-design-language-can-streamline-your-ux-design-process/)
 * [Creating a Design System Language…](https://medium.com/@alpower81/creating-a-design-system-158a2d832551)
-* Setting Up a Design System with Sketch (https://medium.com/sketch-app-sources/setting-up-a-design-system-8729510def93)
+* [Setting Up a Design System with Sketch](https://medium.com/sketch-app-sources/setting-up-a-design-system-8729510def93)
 
 ## Design Tokes
 * [Tokens in Design Systems](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
