@@ -60,3 +60,7 @@ A curated list of design systems. Learning materials and tools for creating your
 ## Videos
 * [The GE Design System and Thoughts about Craft at Scale](https://vimeo.com/132580829)
 
+## Books
+* [Design Systems by Alla Kholmatova](http://designsystemsbook.com/)
+
+
