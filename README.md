@@ -24,6 +24,7 @@ A curated list of design systems. Learning materials and tools for creating your
 - [BBC Gel ](http://www.bbc.co.uk/gel)
 - [Mailchimp](https://ux.mailchimp.com/)
 - [LonelyPlanet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
+- [Audi](http://audi.com/ci)
 
 ## Design Systems for React
 - [Grommet](https://grommet.github.io/)
