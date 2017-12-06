@@ -13,7 +13,7 @@ A curated list of design systems. Learning materials and tools for creating your
 - [Lightning Design System](https://www.lightningdesignsystem.com/)
 - [Google Material Design](https://material.io/)
 - [Atlassian](https://design.atlassian.com/)
-- [IBM Design](http://www.ibm.com/design/)
+- [Carbon Design System](http://carbondesignsystem.com/)
 - [Ubuntu](https://design.ubuntu.com/)
 - [Rizzo (Lonely Planet)](https://rizzo.lonelyplanet.com/)
 - [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)
