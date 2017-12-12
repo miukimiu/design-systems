@@ -55,7 +55,7 @@ A curated list of design systems. Learning materials and tools for creating your
 * [Setting Up a Design System with Sketch](https://medium.com/sketch-app-sources/setting-up-a-design-system-8729510def93)
 * [Design System Features, Step-by-Step](https://medium.com/eightshapes-llc/system-features-step-by-step-e69c90982630)
 
-## Design Tokes
+## Design Tokens
 * [Tokens in Design Systems](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
 
 ## Videos
@@ -68,3 +68,5 @@ A curated list of design systems. Learning materials and tools for creating your
 * [Design Systems Handbook by Invision](https://www.designbetter.co/design-systems-handbook)
 
 
+## Tools
+* [https://www.catalog.style/](https://www.catalog.style/)
