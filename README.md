@@ -31,6 +31,7 @@ A curated list of design systems. Learning materials and tools for creating your
 - [Ant Design](https://ant.design/)
 
 ## Articles
+- [Your sketch library is not a design system](http://bradfrost.com/blog/post/your-sketch-library-is-not-a-design-system/) by Brad Frost (Feb 02, 2018)
 - [Design Systems in 2016 and how to make your own](https://uxplanet.org/design-systems-in-2016-5415a660b29#.u8dl12xgt) by Ziya Fenn (Dec 18, 2016)
 - [GE’s Predix Design System](https://medium.com/ge-design/ges-predix-design-system-8236d47b0891#.fjlu6xyay) by Jeff Crossman (May 25, 2016)
 - [A Maturity Model for Design Systems](https://medium.com/@marcelosomers/a-maturity-model-for-design-systems-93fff522c3ba#.xtwz0kfd9) by Marcelo Summers (Sep 11, 2015)
