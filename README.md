@@ -71,3 +71,6 @@ A curated list of design systems. Learning materials and tools for creating your
 
 ## Tools
 * [https://www.catalog.style/](https://www.catalog.style/)
+
+## Conferences in Europe
+* [Design Systems London](https://www.designsystemslondon.com/)
