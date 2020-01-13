@@ -30,7 +30,7 @@ A curated list of design systems. Learning materials and tools for creating your
 ## Design Systems for React
 - [Grommet](https://grommet.github.io/)
 - [Ant Design](https://ant.design/)
--[Elastic UI](https://elastic.github.io/eui/#/)
+- [Elastic UI](https://elastic.github.io/eui/#/)
 
 ## Articles
 - [Your sketch library is not a design system](http://bradfrost.com/blog/post/your-sketch-library-is-not-a-design-system/) by Brad Frost (Feb 02, 2018)
