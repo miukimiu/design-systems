@@ -26,6 +26,7 @@ A curated list of design systems. Learning materials and tools for creating your
 - [LonelyPlanet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
 - [Audi](http://audi.com/ci)
 - [Aurora](https://gctools-outilsgc.github.io/design-system-code/)
+- [Atlassian](https://www.atlassian.design/guidelines/product/overview)
 
 ## Design Systems for React
 - [Grommet](https://grommet.github.io/)
